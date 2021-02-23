@@ -5,7 +5,7 @@ node_js:
 cache: npm
 branches:
   only:
-    - blog-source # 仅从 blog-source 分支构建
+    - main # 仅从 main 分支构建
 script:
   - hexo generate # generate static files
 deploy:
@@ -16,5 +16,5 @@ deploy:
   committer_from_gh: true
   target_branch: main # 部署到 main 分支
   on:
-    branch: blog-source
+    branch: main
   local-dir: public
