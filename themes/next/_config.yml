@@ -144,14 +144,15 @@ social:
   哔哩哔哩: https://space.bilibili.com/18979787
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
-  #FB Page: https://www.facebook.com/yourname || fab fa-facebook
+  FB Page: https://www.facebook.com/profile.php?id=100032596059656 || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
-  #YouTube: https://youtube.com/yourname || fab fa-youtube
+  YouTube: https://www.youtube.com/channel/UCkjRbdqVgmCmrIxU7arjWew || fab fa-youtube
   #Instagram: https://instagram.com/yourname || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
-  知乎: https://www.zhihu.com/people/wen-xi-82-17 
+  知乎: https://www.zhihu.com/people/wen-xi-82-17
   豆瓣: https://www.douban.com/people/156644985
   简书: https://www.jianshu.com/u/ed04b268b34b
+  微信: https://mp.weixin.qq.com/s/W5bGFSMG67xaAZ2utJ4w2Q
 
 social_icons:
   enable: true
