@@ -48,12 +48,12 @@ darkmode: true
 # ---------------------------------------------------------------
 # Site Information Settings
 # ---------------------------------------------------------------
-
+# 0WASTEHOME2.png
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
-  safari_pinned_tab: /images/logo.svg
+  small: /images/0WASTEHOME-16x16.png #favicon-16x16-next.png
+  medium: /images/0WASTEHOME-32x32.png #favicon-32x32-next.png
+  apple_touch_icon: /images/0WASTEHOME.png #apple-touch-icon-next.png
+  safari_pinned_tab: /images/0WASTEHOME.svg #logo.svg
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
