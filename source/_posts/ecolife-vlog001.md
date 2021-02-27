@@ -15,26 +15,12 @@ sticky: 100
 
 纯素后我就不再购入真皮产品了，视频里出现的都是以前购入的，本来不想特意写它们哪里来，但是问的小伙伴很多，就统一回复下，但不推荐，希望以后能给大家推荐一些好看的纯素产品。
 
-1. 包包
+| 物品   | 来源                                                         |
+| ------ | ------------------------------------------------------------ |
+| 包包   | 韩国 toutyest                                                 |
+| 手帐   | Filofax holborn                                              |
+| 手帕   | 礼物                                                         |
+| 保温瓶 | nitori                                                       |
+| 食品袋 | 台灣 ofoodin，我的是 2L 好食袋，[链接](https://www.onordesign.com/products/ofoodin-food-bag-2l)（可以顺丰直邮） |
+| 购物袋 | 赠送品                                                       |
 
-韩国toutyest
-
-2. 手帐
-
-Filofax holborn
-
-3. 手帕
-
-礼物
-
-4. 保温瓶
-
-nitori
-
-5. 食品袋
-
-台灣ofoodin，我的是2l好食袋，[链接](https://www.onordesign.com/products/ofoodin-food-bag-2l)（可以顺丰直邮）
-
-6. 购物袋
-
-赠送品
