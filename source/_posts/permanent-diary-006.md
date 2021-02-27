@@ -6,7 +6,6 @@ tags:
   - 食物
   - DIY
 categories: 永续女子の日记
-sticky: 100
 ---
 
 ## 改造旧物·蛋包饭·香蕉红豆司康·diy厨房收纳·包饺子

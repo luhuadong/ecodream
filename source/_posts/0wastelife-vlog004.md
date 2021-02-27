@@ -7,7 +7,6 @@ tags:
   - 蜂蜡膜
   - DIY
 categories: 環保·美好生活提案
-sticky: 100
 ---
 
 ## 如何制作取代保鲜膜的蜂蜡膜？
