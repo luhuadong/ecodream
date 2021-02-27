@@ -28,7 +28,7 @@ custom_file_path:
   #bodyEnd: source/_data/body-end.njk
   #variable: source/_data/variables.styl
   #mixin: source/_data/mixins.styl
-  #style: source/_data/styles.styl
+  style: source/_data/styles.styl
 
 
 # ---------------------------------------------------------------
@@ -126,7 +126,7 @@ avatar:
   # Replace the default image and set the url here.
   url: /images/avatar.jpg
   # If true, the avatar will be dispalyed in circle.
-  rounded: false
+  rounded: true
   # If true, the avatar will be rotated with the cursor.
   rotated: false
 
@@ -141,7 +141,7 @@ social:
   #GitHub: https://github.com/yourname || fab fa-github
   #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
   Weibo: https://weibo.com/u/6028368989 || fab fa-weibo
-  哔哩哔哩: https://space.bilibili.com/18979787 || fab fa-b
+  哔哩哔哩: https://space.bilibili.com/18979787 || fab fa-bilibili
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
   FB Page: https://www.facebook.com/profile.php?id=100032596059656 || fab fa-facebook
