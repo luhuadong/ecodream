@@ -140,11 +140,11 @@ site_state: true
 social:
   #GitHub: https://github.com/yourname || fab fa-github
   #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
-  Weibo: https://weibo.com/u/6028368989 || fab fa-weibo
-  哔哩哔哩: https://space.bilibili.com/18979787 || fab fa-bilibili
+  微博: https://weibo.com/u/6028368989 || fab fa-weibo
+  B站: https://space.bilibili.com/18979787 || fab fa-bilibili
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
-  FB Page: https://www.facebook.com/profile.php?id=100032596059656 || fab fa-facebook
+  Facebook: https://www.facebook.com/profile.php?id=100032596059656 || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   YouTube: https://www.youtube.com/channel/UCkjRbdqVgmCmrIxU7arjWew || fab fa-youtube
   #Instagram: https://instagram.com/yourname || fab fa-instagram
@@ -155,7 +155,7 @@ social:
   微信: https://mp.weixin.qq.com/s/W5bGFSMG67xaAZ2utJ4w2Q || fab fa-weixin
 
 social_icons:
-  enable: true
+  enable: false
   icons_only: true
   transition: false
 
