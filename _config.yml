@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Eco梦儿
+title: 零浪费的家
 subtitle: '一个蔬食女子的永续“抠”生活 ● 永续：有趣の环保生活提案 ● 蔬食：有爱の美味素食料理'
-description: '零浪费的家'
+description: 
 keywords:
 author: Eco梦儿
 language: zh-CN
@@ -13,8 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-#url: https://luhuadong.github.io/ecodream
-url: https://dreamgrow.cn
+url: https://0wastehome.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -120,4 +119,15 @@ valine:
   visitor: false # leancloud-counter-security is not supported for now. When visitor is set to be true, appid and appkey are recommended to be the same as leancloud_visitors' for counter compatibility. Article reading statistic https://valine.js.org/visitor.html
   comment_count: true # If false, comment count will only be displayed in post page, not in home page
   recordIP: false # Whether to record the commenter IP
-  
+
+# Site map
+# For google and baidu
+Plugins:
+- hexo-generator-baidu-sitemap
+- hexo-generator-sitemap
+
+baidusitemap:
+    path: baidusitemap.xml
+sitemap:
+    path: sitemap.xml
+    
