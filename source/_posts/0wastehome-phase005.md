@@ -13,7 +13,7 @@ sticky: 100
 
 DIY牙膏可靠吗·3种超好用的牙膏做法
 
-<iframe src="//player.bilibili.com/player.html?aid=929972316&bvid=BV1pK4y1m7b6&cid=319992498&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=929972316&bvid=BV1pK4y1m7b6&cid=319992498&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 资料参考 ❤️ ：
 

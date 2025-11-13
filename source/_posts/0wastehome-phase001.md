@@ -12,4 +12,4 @@ categories: 零浪费的家
 
 如何挑选环保的护肤化妆品·精简护肤·零残忍护肤品牌推荐
 
-<iframe src="//player.bilibili.com/player.html?aid=415055394&bvid=BV1hV411y7NW&cid=250812510&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=415055394&bvid=BV1hV411y7NW&cid=250812510&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

@@ -12,4 +12,4 @@ categories: 環保·美好生活提案
 
 做牙膏的材料只需要有机椰子油和小苏打✌️。
 
-<iframe src="//player.bilibili.com/player.html?aid=712549930&bvid=BV1HD4y197LT&cid=247560776&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=712549930&bvid=BV1HD4y197LT&cid=247560776&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

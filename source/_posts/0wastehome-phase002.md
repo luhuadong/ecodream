@@ -12,4 +12,4 @@ categories: 零浪费的家
 
 超好用的环保身体清洁产品·4款天然系洗发用品大PK·如何选到适合自己の环保洗发用品
 
-<iframe src="//player.bilibili.com/player.html?aid=800494018&bvid=BV1Ry4y1q7MB&cid=259329704&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=800494018&bvid=BV1Ry4y1q7MB&cid=259329704&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

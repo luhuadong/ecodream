@@ -12,4 +12,4 @@ categories: 環保·美好生活提案
 
 就算开始了零浪费生活，也不会完全的0垃圾，所以不要有压力，只要对自己产生的垃圾负责，就非常棒了。
 
-<iframe src="//player.bilibili.com/player.html?aid=927437771&bvid=BV1xT4y1w7LK&cid=245115913&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=927437771&bvid=BV1xT4y1w7LK&cid=245115913&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

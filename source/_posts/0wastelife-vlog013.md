@@ -12,4 +12,4 @@ categories: 環保·美好生活提案
 
 家里有肥猫的小伙伴，被猫毛困扰的请举手?，我真的是和猫毛奋战了很久，最后终于算是有了一个不错的结果，做一名环保的铲屎官，还真的有点挑战。如果你有更好的方法，欢迎在评论区告诉我哦～
 
-<iframe src="//player.bilibili.com/player.html?aid=670413885&bvid=BV1Ga4y1W7kP&cid=262302328&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=670413885&bvid=BV1Ga4y1W7kP&cid=262302328&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

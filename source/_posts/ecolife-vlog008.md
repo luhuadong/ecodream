@@ -11,7 +11,7 @@ sticky: 100
 
 ## 无痕山林的户外露营是怎样的？户外如何无痕环保？
 
-<iframe src="//player.bilibili.com/player.html?aid=715516968&bvid=BV1AQ4y1o7mA&cid=336860284&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=715516968&bvid=BV1AQ4y1o7mA&cid=336860284&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 想知道我带了什么露营装备，可以去我的公众号：零浪费的家，里面找到哦～～
 

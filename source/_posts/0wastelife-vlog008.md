@@ -12,4 +12,4 @@ categories: 環保·美好生活提案
 
 试试记录下自己一周产生的垃圾吧，能从中发现很多小秘密哦。
 
-<iframe src="//player.bilibili.com/player.html?aid=754944590&bvid=BV1wk4y1y7oU&cid=244799130&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=754944590&bvid=BV1wk4y1y7oU&cid=244799130&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

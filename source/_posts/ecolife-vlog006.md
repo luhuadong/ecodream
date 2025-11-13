@@ -11,7 +11,7 @@ sticky: 100
 
 ## 零浪费的衣食住行用·二手衣物/书/旧物市集
 
-<iframe src="//player.bilibili.com/player.html?aid=502641823&bvid=BV1dK411F7DQ&cid=325909084&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=502641823&bvid=BV1dK411F7DQ&cid=325909084&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 - 素食店：深圳青苔行星
 - 古董店：广州 JCY BOUTIQUE

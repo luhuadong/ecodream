@@ -13,4 +13,4 @@ sticky: 100
 
 宫崎骏爷爷的动画里，藏着许多零浪费生活的秘密，希望借爷爷的童话，可以让大家更了解零浪费生活的美好所在～～
 
-<iframe src="//player.bilibili.com/player.html?aid=969811326&bvid=BV1Tp4y1Y74N&cid=242269682&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=969811326&bvid=BV1Tp4y1Y74N&cid=242269682&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

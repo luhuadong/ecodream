@@ -14,4 +14,4 @@ categories: 環保·美好生活提案
 
 ofoodin网址：<https://www.onordesign.com>（支持顺丰直邮，大概是40元）
 
-<iframe src="//player.bilibili.com/player.html?aid=627381642&bvid=BV1zt4y1v7Bo&cid=246002098&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=627381642&bvid=BV1zt4y1v7Bo&cid=246002098&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

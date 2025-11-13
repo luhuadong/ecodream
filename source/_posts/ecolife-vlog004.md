@@ -11,7 +11,7 @@ sticky: 100
 
 ## 环保购物的4条超实用方法·戒掉购物狂的方法
 
-<iframe src="//player.bilibili.com/player.html?aid=587077175&bvid=BV1vz4y117CF&cid=309822658&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=587077175&bvid=BV1vz4y117CF&cid=309822658&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 数据来源：

@@ -15,4 +15,4 @@ categories: 環保·美好生活提案
 
 （清洗tip：只能用冷水清洗，像洗脸一样轻柔清洗，就可以使用长达一年！）
 
-<iframe src="//player.bilibili.com/player.html?aid=329721818&bvid=BV1eA411J7qV&cid=237082984&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=329721818&bvid=BV1eA411J7qV&cid=237082984&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

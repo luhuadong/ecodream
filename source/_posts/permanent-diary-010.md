@@ -10,5 +10,5 @@ categories: 永续女子の日记
 
 ## 老街的旧时光·永续素食餐厅·鲜香素烧卖·萝卜素丸子汤
 
-<iframe src="//player.bilibili.com/player.html?aid=373694472&bvid=BV1ao4y1o7pJ&cid=284693068&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=373694472&bvid=BV1ao4y1o7pJ&cid=284693068&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
